@@ -1,0 +1,121 @@
+<input type="hidden" id="fcraiz"/>
+<input type="hidden" id="fcraiz1"/> 
+<input type="hidden"  id="sumEc"/> 
+<input  type="hidden"  id="H2"/>
+<input type="hidden"  id="B2"/> 
+<input  type="hidden"  id="H3"/>
+<input  type="hidden"  id="varilla"/>
+ <input type="hidden" id="I"/> 
+<input  type="hidden" id="div1"/>
+<input  type="hidden" id="l1c1"/>
+<input  type="hidden" id="div2"/>
+<input  type="hidden" id="div3"/>
+<input  type="hidden" id="div4"/>
+<input  type="hidden" id="c2"/>
+<input  type="hidden" id="c1"/>
+<input  type="hidden" id="divc1"/>
+<input  type="hidden" id="divc2"/>
+<input  type="hidden" id="div2c2"/>
+<input  type="hidden" id="div2c1"/>
+<input  type="hidden" id="w2c2"/>
+
+
+<input type="hidden" id="WcalFlecha"> 
+<input  type="hidden" id="l2c2"/>
+<input type="hidden" id="div1wu"/>
+<input type="hidden" id="div2wu"/>
+<input type="hidden" id="wuw1"/>
+<input type="hidden" id="WUfix"/>
+<input type="hidden" id="wuper"/>
+<input type="hidden" id="menosm"/>
+<input type="hidden" id="resultm"/>
+<input type="hidden" id="finm"/>
+<input type="hidden" id="finMmas"/>
+<input type="hidden" id="resultmmas"/>
+<input type="hidden" id="masM"/>
+<input type="hidden" id="wuresult"/>
+<input type="hidden" id="wumomdiv1"/>
+<input type="hidden" id="wumomdiv2"/>
+<input type="hidden" id="MomMmas"/>
+<input type="hidden" id="resmommas"/>
+<input type="hidden" id="resmas"/>
+<input type="hidden" id="Fcfix3"/>
+<input type="hidden" id="mindiv1"/>
+<input type="hidden" id="minresult"/>
+<input type="hidden" id="raizmu"/>
+<input type="hidden" id="raizmu2"/>
+<input type="hidden" id="raizdivmu"/>
+<input type="hidden" id="divF"/>
+<input type="hidden" id="divFmu"/>
+<input type="hidden" id="divFmu2"/>
+<input type="hidden" id="unomenosmu"/>
+<input type="hidden" id="unomenosmu2"/>
+<input type="hidden" id="DellRaiz"/>
+<input type="hidden" id="DellRaiz2"/>
+<input type="hidden" id="P1res"/>
+<input type="hidden" id="P2res"/>
+
+<!---input de la azotea  -->
+
+<input type="hidden" id="fcraizazotea"/> 
+
+<input type="hidden"  id="sumEcazotea"/> 
+<input  type="hidden"  id="H2azotea"/>
+<input type="hidden"  id="B2azotea"/> 
+<input  type="hidden"  id="H3azotea"/>
+<input  type="hidden"  id="varillaazotea"/>
+ <input type="hidden" id="Iazotea"/> 
+<input  type="hidden" id="div1azotea"/>
+<input  type="hidden" id="divw2azotea"/>
+<input  type="hidden" id="div2azotea"/>
+<input  type="hidden" id="divc2azotea"/>
+<input  type="hidden" id="c2azotea"/>
+<input  type="hidden" id="c1azotea"/>
+<input  type="hidden" id="div2c2azotea"/>
+<input  type="hidden" id="divc1azotea"/>
+<input  type="hidden" id="div3azotea"/>
+<input  type="hidden" id="div4azotea"/>
+<input  type="hidden" id="w2c2azotea"/>
+<input  type="hidden" id="l2c2azotea"/>
+<input  type="hidden" id="l1c1azotea"/>
+<input  type="hidden" id="div2c1azotea"/>
+<input type="hidden" id="div1wuazotea"/>
+<input type="hidden" id="div2wuazotea"/>
+<input type="hidden" id="wuw1azotea"/>
+<input type="hidden" id="WUfixazotea"/>
+<input type="hidden" id="wuperazotea"/>
+<input type="hidden" id="menosmazotea"/>
+<input type="hidden" id="resultmazotea"/>
+<input type="hidden" id="finmazotea"/>
+<input type="hidden" id="finMmasazotea"/>
+<input type="hidden" id="resultmmasazotea"/>
+<input type="hidden" id="masMazotea"/>
+<input type="hidden" id="wuresultazotea"/>
+<input type="hidden" id="wumomdiv1azotea"/>
+<input type="hidden" id="wumomdiv2azotea"/>
+<input type="hidden" id="MomMmasazotea"/>
+<input type="hidden" id="resmommasazotea"/>
+<input type="hidden" id="resmasazotea"/>
+<input type="hidden" id="Fcfix3azotea"/>
+<input type="hidden" id="mindiv1azotea"/>
+<input type="hidden" id="minresultazotea"/>
+<input type="hidden" id="raizmuazotea"/>
+<input type="hidden" id="raizmu2azotea"/>
+<input type="hidden" id="raizdivmuazotea"/>
+<input type="hidden" id="divFazotea"/>
+<input type="hidden" id="divFmuazotea"/>
+<input type="hidden" id="divFmu2azotea"/>
+<input type="hidden" id="unomenosmuazotea"/>
+<input type="hidden" id="unomenosmu2azotea"/>
+<input type="hidden" id="DellRaizazotea"/>
+<input type="hidden" id="DellRaiz2azotea"/>
+<input type="hidden" id="P1resazotea"/>
+<input type="hidden" id="P2resazotea"/>
+<input type="hidden" id="l1azoteac"/>
+<input type="hidden" id="l2c1azotea"/>
+<input  type="hidden" id="w2azoteadiv"/>
+<input  type="hidden" id="WcalFlechaazotea"/>
+<input  type="hidden" id="flechaazotea"/>
+
+
+
